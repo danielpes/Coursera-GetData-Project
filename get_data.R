@@ -7,7 +7,6 @@ if ( !file.exists("dataset.zip") ) {
 
 if ( !file.exists("UCI HAR Dataset") ) {
     unzip(
-        zipfile = "dataset.zip",
-        exdir = "data"
+        zipfile = "dataset.zip"
     )
 }
