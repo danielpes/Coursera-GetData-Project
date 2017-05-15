@@ -1,4 +1,4 @@
-#README
+# README
 
 This file shows information about the R script found in the file "run_analysis.R"
 
